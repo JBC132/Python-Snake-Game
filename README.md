@@ -1,4 +1,4 @@
-# Python-Snake-Game
+# Python Snake Game
 Making the Snake Game using Python
 
 # Dependency
